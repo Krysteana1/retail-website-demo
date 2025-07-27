@@ -1,23 +1,24 @@
+# Retail Website Demo
 
----
+This repository contains the source code for a responsive demo website built for a fictional retail business.
 
-### ✅ Next steps:
+## Features
 
-1. Go to your repo on GitHub:  
-👉 [https://github.com/Krysteana1/retail-website-demo](https://github.com/Krysteana1/retail-website-demo)
+- Mobile-friendly, responsive layout  
+- Clean and modern design  
+- SEO-optimized structure  
+- Built with HTML5, CSS3, and JavaScript
 
-2. Click `README.md`
+## Purpose
 
-3. Click the ✏️ pencil icon to edit
+This project was created as a portfolio piece to demonstrate front-end development skills, UX design understanding, and basic SEO implementation. It simulates a real-world client project, including homepage, product showcase, about, and contact sections.
 
-4. Delete everything and **paste the text above**
+## Live Preview
 
-5. Scroll down and click **“Commit changes”**
+[View Live Demo](https://Krysteana1.github.io/retail-website-demo)
 
----
+## How to Use
 
-After that, your repo is 100% set. If you enabled **GitHub Pages**, your **live site** will be here:
-
-👉 https://Krysteana1.github.io/retail-website-demo
-
-Paste that link into your **Upwork portfolio** under the project. Want help with the exact wording to use on Upwork when adding that link?
+1. Clone the repo:
+```bash
+git clone https://github.com/Krysteana1/retail-website-demo.git
